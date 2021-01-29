@@ -1,4 +1,4 @@
-https://www.shebang.fr/
-https://www.shebang.fr/about.htm
-https://www.shebang.fr/works.htm
-https://www.shebang.fr/insights.htm
+https://www.shebang.fr/amp/
+https://www.shebang.fr/amp/about.htm
+https://www.shebang.fr/amp/works.htm
+https://www.shebang.fr/amp/insights.htm
