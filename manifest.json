@@ -45,8 +45,8 @@
 }
 ],
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "orientation": "portrait",
   "start_url": "http://localhost/shebang/dist/?utm_source=homescreen"
 }
