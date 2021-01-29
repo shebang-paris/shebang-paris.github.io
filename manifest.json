@@ -48,5 +48,5 @@
   "background_color": "#000000",
   "theme_color": "#000000",
   "orientation": "portrait",
-  "start_url": "http://localhost/shebang/dist/?utm_source=homescreen"
+  "start_url": "https://www.shebang.fr/?utm_source=homescreen"
 }
